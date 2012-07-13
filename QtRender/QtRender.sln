@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtRender", "QtRender\QtRender.vcxproj", "{E9861A57-9750-41A5-B394-067E1F94208E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9861A57-9750-41A5-B394-067E1F94208E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9861A57-9750-41A5-B394-067E1F94208E}.Debug|Win32.Build.0 = Debug|Win32
+		{E9861A57-9750-41A5-B394-067E1F94208E}.Release|Win32.ActiveCfg = Release|Win32
+		{E9861A57-9750-41A5-B394-067E1F94208E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		QtVersion = $(DefaultQtVersion)
+	EndGlobalSection
+EndGlobal
